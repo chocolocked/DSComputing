@@ -10,6 +10,8 @@ Some experiments/explorations related to Data Science Computing. Especially covi
   * visualization of historical trends and predictions with interactive map plot. You can view a short demo [here](https://plotly.com/~GinnyJZ/74/#plot)
 * notes: folder containing some starter code courtesy of Dr.Luo Xi
 
+![map](map.PNG)
+
 
 ## Built With
 * [pytorch](https://pytorch.org/) - The major modeling tool
