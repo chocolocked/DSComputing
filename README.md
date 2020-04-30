@@ -1,5 +1,5 @@
 # DSComputing
-Some experiments/explorations related to Data Science Computing. Especially covid-19 projections with RNN, and visualizations with interactive map tracker and predictions.
+Some experiments/explorations related to Data Science Computing. Especially covid-19 projections with LSTM/GRU deep learning models, and visualizations with interactive map tracker and predictions.
 
 
 ## Project organization
