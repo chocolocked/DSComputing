@@ -23,7 +23,7 @@ Some experiments/explorations related to Data Science Computing. Especially covi
 
 
 ## Authors 
-**Ginny** [chocolocked](https://github.com/chocolocked)
+[chocolocked](https://github.com/chocolocked)
 
 
 ## Acknowledgments
